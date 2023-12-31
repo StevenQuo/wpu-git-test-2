@@ -8,5 +8,8 @@
 <body>
   <h1>Hello World</h1>
   <p>Test Section</p>
+  <ul>
+    <li>Menambahkan list</li>
+  </ul>
 </body>
 </html>
